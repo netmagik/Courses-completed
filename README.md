@@ -10,4 +10,5 @@ List of courses I've completed:
 	<li>Google Data Studio https://analytics.google.com/analytics/academy/course/10 - 2019</li>
 	<li>WordPress Speed Optimization Master Course https://www.udemy.com/course/make-your-wordpress-sites-fastest-in-world/ - 2018</li>
 	<li>Command Line Power User https://wesbos.com/command-line-video-tutorials - 2016</li>
+	<li>Sublime Text Power User https://sublimetextbook.com/ - 2016</li>
 	</ul>
