@@ -3,6 +3,7 @@
 List of courses I've completed:
 
 <ul>
+	<li>JavaScript Testing - https://www.udacity.com/course/javascript-testing--ud549 - 2020</li>
 	<li>React for Beginners by Wes Bos - https://reactforbeginners.com/ - 2020</li>
 	<li>JavaScript 30 by Wes Bos https://javascript30.com/ - 2020</li>
 	<li>Stanford Web Security https://web.stanford.edu/class/cs253/ - 2020</li>
