@@ -3,6 +3,7 @@
 List of courses I've completed:
 
 <ul>
+	<li>React for Beginners by Wes Bos - https://reactforbeginners.com/</li>
 	<li>JavaScript 30 by Wes Bos https://javascript30.com/ - 2020</li>
 	<li>Stanford Web Security https://web.stanford.edu/class/cs253/ - 2020</li>
 	<li>Google My Business https://skillshop.exceedlms.com/student/catalog/list?category_ids=678-google-my-business - 2019</li>
